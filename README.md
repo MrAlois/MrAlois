@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm pan Alois!</h2>
-<h4 align="center">A backend and game developer from the grat city of Ostrava</h4>
+<h4 align="center">A backend and game developer from the slums of OBC (Ostrava Big City)</h4>
 
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -20,7 +20,8 @@ fields_of_interests:
     "Machine Learning",
     "Game Development",
     "DevOps",
-    "Optimization"
+    "Linear optimization",
+    "Cryptography"
   ]
 technical_background:
   [
