@@ -28,6 +28,7 @@ technical_background:
     "Backend developer for enterprise applications",
   ]
   
+languages: ["Java, Kotlin, Python, C++"]
 currently_learning: ["Docker, Kubernetes, Spring cloud"]
 hobbies: ["Gaming", "Art", "Philosophy", "Fencing"]
 ```
